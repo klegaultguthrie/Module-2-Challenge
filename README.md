@@ -9,14 +9,13 @@ The purpose of this project is to refactor the original code with the intent of 
 
 
 ## Results
-The original VBA scrips times are shown below; the scripts for 2017 and 2018 ran in 
-![ORIGINAL All Stocks 2017](
+The original VBA scrips times are shown below; the scripts for 2017 and 2018 ran in .605 and .613 respectively.
+![ORIGINAL All Stocks 2017](https://github.com/klegaultguthrie/Module-2-Challenge/blob/main/ORIGINAL%20All%20Stocks%202017.png)
 ![ORIGINAL All Stocks 2018](
 
 Overall the stock performance in 2017 was strong; all stocks had a positive return, with the exception of TERP which saw a -7.2% return. Comparatively, 2018 stock performance was poor, as all stocks had negative returns witht he exception of ENPH and RUN, who posted healthy returns (greater than 80%). The original code ran in  respectively as shown in the image below.
 
-![All Stocks 2017](https://github.com/klegaultguthrie/Module-2-Challenge/blob/main/All%20Stocks%202017.png)
-
+![All Stocks 2017](
 ![All Stocks 2018](https://github.com/klegaultguthrie/Module-2-Challenge/blob/main/All%20Stocks%202018.png)
 
 
