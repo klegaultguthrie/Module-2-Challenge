@@ -14,6 +14,8 @@ RUN, who posted healthy returns (gretaer than 80%).
 
 ![All Stocks 2017](https://github.com/klegaultguthrie/Module-2-Challenge/blob/main/All%20Stocks%202017.png)
 
+![All Stocks 2018](
+
 ### Analysis of Outcomes Based on Launch Date
 
 ### Analysis of Outcomes Based on Goals
