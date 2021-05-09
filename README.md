@@ -10,17 +10,15 @@ The purpose of this project is to refactor the original code with the intent of 
 
 ## Results
 Overall the stock performance in 2017 was strong; all stocks had a positive return, with the exception of TERP which saw a -7.2% return. Comparatively, 2018 stock performance was poor, as all stocks had negative returns witht he exception of ENPH and 
-RUN, who posted healthy returns (gretaer than 80%).
+RUN, who posted healthy returns (greater than 80%).
 
 ![All Stocks 2017](https://github.com/klegaultguthrie/Module-2-Challenge/blob/main/All%20Stocks%202017.png)
 
-![All Stocks 2018](
+![All Stocks 2018](https://github.com/klegaultguthrie/Module-2-Challenge/blob/main/All%20Stocks%202018.png)
 
-### Analysis of Outcomes Based on Launch Date
 
-### Analysis of Outcomes Based on Goals
 
-### Challenges and Difficulties Encountered
+
 
 ## Results
 
