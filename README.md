@@ -9,7 +9,10 @@ The purpose of this project is to refactor the original code with the intent of 
 
 
 ## Results
-The original VBA scrips times are shown below; the scripts for 2017 and 2018 ran in .605 and .613 respectively.
+The original VBA scrips times are shown below; the scripts for 2017 and 2018 ran in .617 and .613 seconds respectively.
+
+#Original Run Times
+
 ![ORIGINAL All Stocks 2017](https://github.com/klegaultguthrie/Module-2-Challenge/blob/main/ORIGINAL%20All%20Stocks%202017.png)
 ![ORIGINAL All Stocks 2018](https://github.com/klegaultguthrie/Module-2-Challenge/blob/main/ORIGINAL%20All%20Stocks%202018.png)
 
